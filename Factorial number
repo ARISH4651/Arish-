@@ -1,0 +1,10 @@
+#to find factorial for a given number
+#number should not be negative
+step 1: Start
+step 2: Read n value form the user to enter an integer to find the factorial.
+step 3: Read the integer and assign it to a variable.
+step 4: Set n is greater than or equal to 1 if n is not greater than 1 print It is not a factorial number
+step 5: elif n is equal to zero print factorial of zero is 1
+step 6: else calculate the factorial for the given number and store ot in result
+step 7: display the result
+step 8: stop
